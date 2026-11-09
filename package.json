@@ -1,0 +1,19 @@
+{
+  "name": "super_tester",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "pushkar kashyapi",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "vibeshield-nodejs-backend": "^0.1.5"
+  }
+}
